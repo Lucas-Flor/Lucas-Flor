@@ -45,6 +45,12 @@ My clear and effective communication in presenting results and insights stands o
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
+<div  align="left">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Flor&layout=compact&langs_count=7&theme=react)
+
+</div>
+
 
 <details align="left">
   <summary></summary> 
